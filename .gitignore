@@ -1,0 +1,9 @@
+.idea
+.idea/
+*.iml
+.DS_Store
+build/
+logs/
+data/*
+go.sum
+.cache
